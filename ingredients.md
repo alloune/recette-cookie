@@ -1,8 +1,9 @@
 <del>- 75g de beurre mou<del>
 
-- 1 œuf
-- 85g de sucre
-- 1 sachet de sucre vanillé
+<del>- 1 œuf
+<del>- 85g de sucre
+
+<del>- 1 sachet de sucre vanillé
 
 <del>- 150g de farine<del>
 
